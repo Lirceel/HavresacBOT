@@ -11,7 +11,7 @@ client.on('ready', () => {
 }
 })*/
 
-client.login('Jean Michel crapaud aka token')
+client.login('process.env.TOKEN_BOT')
 client.on("error", error => {
   console.log(error)
 })
