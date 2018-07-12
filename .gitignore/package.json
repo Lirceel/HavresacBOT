@@ -1,0 +1,15 @@
+{
+  "name": "bot_rp",
+  "version": "1.0.0",
+  "description": "npm install --save discord.js fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lirceel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security"
+  }
+}
