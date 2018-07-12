@@ -11,7 +11,7 @@ client.on('ready', () => {
 }
 })*/
 
-client.login('process.env.TOKEN_BOT')
+client.login( process.env.TOKEN_BOT )
 client.on("error", error => {
   console.log(error)
 })
